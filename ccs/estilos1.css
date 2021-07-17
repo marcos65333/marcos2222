@@ -1,0 +1,49 @@
+.menu {
+  background-color: brown;
+  padding: 10px;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li {
+  display: inline-block;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  color: aliceblue;
+}
+
+.menu ul li a:hover {
+  background-color: dimgrey;
+}
+
+.cuerpo {
+  background-color: antiquewhite;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.parrafo1 {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+
+.pie {
+  background-color: brown;
+  color: aliceblue;
+  padding: 10px;
+}
